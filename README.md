@@ -2,8 +2,8 @@
 
 Here's the Excess logo, in SVG format:
 
-![alt text](logo.svg "Logo Title Text 1")
+![Excess logo](logo.svg "Excess logo")
 
 Here's just the X symbol, typically used for icons:
 
-![alt text](symbol.svg "Logo Title Text 1")
+![Excess symbol](symbol.svg "Excess symbol")
