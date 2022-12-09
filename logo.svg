@@ -1,4 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="592" height="112">
+  <style>
+    @media (prefers-color-scheme:dark) {
+      svg {
+        fill: white;
+      }
+    }
+  </style>
   <defs>
     <path id="e" d="M80 80H0V0h80v48H24V32h40V16H16v48h64z"/>
     <path id="s" d="M0 0v48h64v16H0v16h80V32H16V16h64V0z"/>
